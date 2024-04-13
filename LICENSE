@@ -19,3 +19,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Limitations:
+- [Responsibility](#Responsibility)
+- [Warranty](#Warranty)
+
+### Responsibility
+
+In no case will the authors or copyright holders be
+responsible for any claims, damages or other liabilities,
+whether in an action in contract, tort or otherwise, arising out of,
+or in connection with the Software or use or other dealings in the
+software.
+
+### Warranty
+
+The software is provided "as is", without warranty of any kind,
+express or implied, including but not limited to warranties of
+merchantability, fitness for a particular purpose and non-infringement.
+The authors or copyright holders make no guarantees
+that the software is free of errors or functions as intended.
+
