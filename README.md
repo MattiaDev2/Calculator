@@ -26,6 +26,6 @@ If you find bugs or have suggestions for improving the program, don't hesitate t
 
 ## License
 
-Questo progetto è sotto licenza MIT. Per ulteriori dettagli, consulta il file [LICENSE](LICENSE).
+This project is under the MIT license. For further details, see the file [LICENSE](LICENSE).
 
 
